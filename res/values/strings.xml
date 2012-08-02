@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Main!</string>
+	<string name="app_name">EndlessListView</string>
+	<string name="header_to_load_more">Header More</string>
+	<string name="footer_to_load_more">Footer More</string>
+	<string name="loading_more">Loading...</string>
+</resources>
